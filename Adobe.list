@@ -1,9 +1,9 @@
-cc-api-data.adobe.io
-acp-ss-an1.adobe.io
-notify.adobe.io
-photos.adobe.io
-polka.typekit.com
-*.adobe.io
-*.aws.adobess.com
-scss.adobesc.com
-*.adobesc.com
+DOMAIN, cc-api-data.adobe.io
+DOMAIN, acp-ss-an1.adobe.io
+DOMAIN, notify.adobe.io
+DOMAIN, photos.adobe.io
+DOMAIN, polka.typekit.com
+DOMAIN, scss.adobesc.com
+DOMAIN-SUFFIX, adobe.io
+DOMAIN-SUFFIX, aws.adobess.com
+DOMAIN-SUFFIX, adobesc.com
