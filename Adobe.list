@@ -9,6 +9,7 @@ DOMAIN, udps.adobe.com
 DOMAIN, api.account.adobe.com
 DOMAIN, ims-prod06.adobelogin.com
 DOMAIN, assets.adobedtm.com
+DOMAIN, d1swly8pgrbhu5.cloudfront.net
 DOMAIN-SUFFIX, adobe.io
 DOMAIN-SUFFIX, aws.adobess.com
 DOMAIN-SUFFIX, adobesc.com
