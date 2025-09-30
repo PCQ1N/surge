@@ -10,6 +10,7 @@ DOMAIN, udps.adobe.com
 DOMAIN, ims-prod06.adobelogin.com
 DOMAIN, assets.adobedtm.com
 DOMAIN, d1swly8pgrbhu5.cloudfront.net
+DOMAIN, www.photoshop.com
 DOMAIN-SUFFIX, adobe.io
 DOMAIN-SUFFIX, aws.adobess.com
 DOMAIN-SUFFIX, adobesc.com
@@ -18,3 +19,4 @@ DOMAIN-SUFFIX, account.adobe.com
 DOMAIN-SUFFIX, adobe.com
 DOMAIN-SUFFIX, adobelogin.com
 DOMAIN-SUFFIX, adobedtm.com
+DOMAIN-SUFFIX, photoshop.com
