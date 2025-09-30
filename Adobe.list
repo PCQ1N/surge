@@ -8,6 +8,7 @@ DOMAIN, storage.adbephotos.com
 DOMAIN, udps.adobe.com
 DOMAIN, api.account.adobe.com
 DOMAIN, ims-prod06.adobelogin.com
+DOMAIN, assets.adobedtm.com
 DOMAIN-SUFFIX, adobe.io
 DOMAIN-SUFFIX, aws.adobess.com
 DOMAIN-SUFFIX, adobesc.com
@@ -15,3 +16,4 @@ DOMAIN-SUFFIX, adbephotos.com
 DOMAIN-SUFFIX, adobe.com
 DOMAIN-SUFFIX, adobelogin.com
 DOMAIN-SUFFIX, account.adobe.com
+DOMAIN-SUFFIX, adobedtm.com
